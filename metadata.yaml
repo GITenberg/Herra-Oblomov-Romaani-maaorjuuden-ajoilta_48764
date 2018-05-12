@@ -1,15 +1,21 @@
 _repo: Herra-Oblomov-Romaani-maaorjuuden-ajoilta_48764
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kianto, Ilmari
     gutenberg_agent_id: '44960'
     url: http://www.gutenberg.org/2009/agents/44960
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gontsharov, I. A.
     gutenberg_agent_id: '44959'
     url: http://www.gutenberg.org/2009/agents/44959
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48764#Herra-Oblomov-Romaani-maaorjuuden-ajoilta
 gutenberg_issued: '2015-04-22'
 gutenberg_type: Text
 identifiers:
